@@ -1,0 +1,8 @@
+.section7 {
+  background-image: url("../../assets/security-bg.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  /* position: relative; */
+  padding: 0px;
+}

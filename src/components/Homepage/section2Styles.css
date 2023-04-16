@@ -1,0 +1,8 @@
+.section2 {
+  background-image: url("../../assets/deserve-more-bg.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  display: flex;
+  justify-content: left;
+}

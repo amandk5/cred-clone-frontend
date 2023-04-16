@@ -1,0 +1,11 @@
+.section5 {
+  width: 100vw;
+  padding: 60px 0px;
+  background-color: black;
+  color: white;
+}
+.section5 > div {
+  margin: 10px auto;
+  width: 70%;
+  text-align: justify;
+}

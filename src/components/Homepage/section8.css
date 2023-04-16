@@ -1,0 +1,16 @@
+.section8 {
+  background-image: url("../../assets/trust-bg.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section8 > div {
+  display: flex;
+  justify-content: space-between;
+}
+.section8 > div > div {
+  width: 50%;
+}

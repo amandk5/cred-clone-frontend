@@ -1,0 +1,8 @@
+.section4 {
+  background-image: url("../../assets/money-matters-bg.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  display: flex;
+  justify-content: left;
+}

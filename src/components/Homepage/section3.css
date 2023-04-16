@@ -1,0 +1,12 @@
+.section3 {
+  width: 100vw;
+  padding: 60px 0px;
+  background-color: white;
+  color: black;
+}
+
+.section3 > div {
+  margin: 50px auto;
+  width: 70%;
+  text-align: justify;
+}
